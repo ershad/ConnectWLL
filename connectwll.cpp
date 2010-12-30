@@ -1,5 +1,5 @@
 /*
- *      easyclarity.cpp
+ *      connectwll.cpp
  *
  *      Copyright 2009 Ershad K  ershad92@gmail.com
  *      Licensed under GPL Version 3
@@ -21,7 +21,7 @@ int main ()
 	char username[25];
 	char password[25];
 	
-	puts("\n EasyClarity - Connect wisely!  www.ershadk.wordpress.com\n\n");
+	puts("\n Connect WLL easily!  www.ershadk.wordpress.com\n\n");
 	
 	ifstream conf("wllconf");
 	conf.getline(username,25);
