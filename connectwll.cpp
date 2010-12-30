@@ -5,7 +5,7 @@
  *      Licensed under GPL Version 3
  *
  *      Please change USERNAME, PASSWORD and compile with g++
- *      To compile - g++ easyclarity.cpp
+ *      To compile - g++ connectwll.cpp
  *      To execute - ./a.out
  */
 
