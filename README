@@ -1,1 +1,13 @@
 A program to connect BSNL WLL in GNU/Linux
+
+Do this once before running the program:
+
+$echo -e "<your_username>\n<yourpassword" > wllconf
+
+For example, $echo -e "1234567\n3456" > wllconf
+
+
+Now, execute connectwll with sudo power to get connected, like this:
+
+$sudo ./connectwll
+
